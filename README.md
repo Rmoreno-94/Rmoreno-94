@@ -1,8 +1,14 @@
-- 👋 Hi, I am Roberto Moreno
-- I am a recent IT/Cybersecurity graduate looking forward to a rewarding career in IT or Cybersecurity. 
-- 👀 I’m interested in expanding my understanding of all things IT and Cybersecurity.
-- 🌱 I’m currently learning the basics of Active Directory and I am also learning about SQL. 
-- 📫 I can be reached at Robmoreno0516@gmail.com.
+ <h1>Hi, I'm Roberto! <br/><a href="https://www.linkedin.com/in/roberto-moreno-940b0a184/">Aspiring IT Professional</a>
+
+<h2>👨‍💻  IT Projects:</h2>
+
+- [Active Directory Home Lab](https://github.com/Rmoreno-94/Active-Directory-Home-Lab)
+
+<br/>- 👋 Hi, I am Roberto Moreno
+<br/>- I am a recent IT/Cybersecurity graduate looking forward to a rewarding career in IT or Cybersecurity. 
+<br/>- 👀 I’m interested in expanding my understanding of all things IT and Cybersecurity.
+<br/>- 🌱 I’m currently learning the basics of Active Directory and I am also learning about SQL. 
+<br/>- 📫 I can be reached at Robmoreno0516@gmail.com.
 
 <!---
 Rmoreno-94/Rmoreno-94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
