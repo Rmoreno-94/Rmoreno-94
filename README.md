@@ -3,6 +3,7 @@
 <h2>👨‍💻  IT Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/Rmoreno-94/Active-Directory-Home-Lab)
+- [Active Directory Group Policy & File Sharing WIP](https://github.com/Rmoreno-94/Active-Directory-Group-Policy-and-File-Sharing/blob/main/README.md)
 
 <br/>- 👋 Hi, I am Roberto Moreno
 <br/>- I am a recent IT/Cybersecurity graduate looking forward to a rewarding career in IT or Cybersecurity. 
