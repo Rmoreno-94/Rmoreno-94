@@ -8,7 +8,7 @@
 <br/>- 👋 Hi, I am Roberto Moreno
 <br/>- I am a recent IT/Cybersecurity graduate looking forward to a rewarding career in IT or Cybersecurity. 
 <br/>- 👀 I’m interested in expanding my understanding of all things IT and Cybersecurity.
-<br/>- 🌱 I’m currently learning the basics of Active Directory and I am also learning about SQL. 
+<br/>- 🌱 I’m currently learning the basics of Active Directory and I am also learning about IAM. 
 <br/>- 📫 I can be reached at Robmoreno0516@gmail.com.
 
 <!---
